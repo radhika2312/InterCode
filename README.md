@@ -22,4 +22,4 @@ Advanced Features : 
 3. In case the candidate tries to cheat by opening another window (of  another application may be a browser) then notify the interviewer and  send the screenshot of candidates’ desktop to him.
 4. Provide Auto-indentation for the code.
 5. Auto-complete should be possible which suggests a list of possible  words when ctrl+space is entered. (Tri to optimise) 
-6. Handling synchronization and preventing inconsistency will help you
+6. Handling synchronization and preventing inconsistency will help you get extra points.
